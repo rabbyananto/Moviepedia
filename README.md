@@ -1,3 +1,8 @@
+# Movie mantra- Movie Searching web application
+Technology used : HTML, CSS, JavaScript, ReactJs, API   
+Live Demo : https://moviemantra.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
